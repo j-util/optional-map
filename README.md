@@ -14,6 +14,20 @@ with:
 Optional<String> name = OptionalMaps.getOptional(map, "user-1");
 ```
 
+## Installation
+
+Maven:
+
+```xml
+<dependency>
+  <groupId>io.github.j-util</groupId>
+  <artifactId>optional-map</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
+[Maven Central](https://central.sonatype.com/artifact/io.github.j-util/optional-map)
+
 ## Usage
 
 Use `OptionalMaps.getOptional(map, key)` when you only need one lookup:

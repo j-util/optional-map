@@ -1,3 +1,5 @@
+[![MvnRepository](https://badges.mvnrepository.com/badge/io.github.j-util/optional-map/badge.svg?label=MvnRepository&color=green)](https://mvnrepository.com/artifact/io.github.j-util/optional-map)
+
 # optional-map
 
 Small Java 8+ utility for null-safe `Optional` access to `Map` values.

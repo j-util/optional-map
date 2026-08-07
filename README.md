@@ -1,4 +1,4 @@
-[![MvnRepository](https://badges.mvnrepository.com/badge/io.github.j-util/optional-map/badge.svg?label=MvnRepository&color=green)](https://mvnrepository.com/artifact/io.github.j-util/optional-map)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.j-util/optional-map.svg)](https://central.sonatype.com/artifact/io.github.j-util/optional-map)
 
 # optional-map
 

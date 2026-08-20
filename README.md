@@ -1,6 +1,8 @@
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.j-util/optional-map.svg)](https://central.sonatype.com/artifact/io.github.j-util/optional-map)
-
 # optional-map
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.j-util/optional-map.svg)](https://central.sonatype.com/artifact/io.github.j-util/optional-map)
+[![Javadoc](https://javadoc.io/badge2/io.github.j-util/optional-map/javadoc.svg)](https://javadoc.io/doc/io.github.j-util/optional-map)
+[![Build](https://github.com/j-util/optional-map/actions/workflows/build.yml/badge.svg)](https://github.com/j-util/optional-map/actions/workflows/build.yml)
 
 Small Java 8+ utility for null-safe `Optional` access to `Map` values.
 
